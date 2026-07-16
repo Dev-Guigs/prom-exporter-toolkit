@@ -1,6 +1,6 @@
 # 📊 Prom Exporter Toolkit
 
-[![CI](https://github.com/OWNER/prom-exporter-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/prom-exporter-toolkit/actions/workflows/ci.yml)
+[![CI](https://github.com/Dev-Guigs/prom-exporter-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/Dev-Guigs/prom-exporter-toolkit/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
